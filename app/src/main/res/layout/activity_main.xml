@@ -20,15 +20,19 @@
         android:layout_height="wrap_content"
         android:background="@drawable/andro"
         android:verticalScrollbarPosition="left"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        android:contentDescription="@string/copyright" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/author"
         android:paddingTop="400dp"
+        android:paddingStart="100dp"
         android:paddingLeft="100dp"
+        android:paddingEnd="20dp"
+        android:paddingRight="20dp"
         android:fontFamily="monospace"
-        android:elevation="200dp"
+
         />
 
 
