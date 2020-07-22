@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Local</string>
+    <string name="first">First Project in Kotlin</string>
+</resources>
