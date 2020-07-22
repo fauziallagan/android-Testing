@@ -6,12 +6,29 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="762da38b-a642-4d93-8e88-9feb1ef0df15" name="Default Changelist" comment="" />
+    <list default="true" id="762da38b-a642-4d93-8e88-9feb1ef0df15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/andro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/android.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="LGM7001d04bc88" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -48,6 +65,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UJI\Android Apps\testing\app\src\main\res\drawable" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -131,6 +153,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1595417731538" />
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1595420530380">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595420530380" />
+    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1595420530380">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595420530380" />
+    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1595420530380">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595420530380" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1595420530380">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595420530380" />
     <state x="439" y="116" key="NewModule_or_Project.wizard" timestamp="1595411821257">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -159,5 +197,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="606" y="318" key="git4idea.ui.GitStashDialog/0.0.1536.834@0.0.1536.834" timestamp="1595418048115" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1595419959160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595419959160" />
   </component>
 </project>
