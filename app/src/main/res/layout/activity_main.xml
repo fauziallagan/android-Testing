@@ -32,7 +32,6 @@
         android:paddingEnd="20dp"
         android:paddingRight="20dp"
         android:fontFamily="monospace"
-
         />
 
 
