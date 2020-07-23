@@ -5,11 +5,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
+        android:textColor="@color/font"
+        android:fontFamily="cursive"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:text="@string/first"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -18,21 +22,9 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/andro"
         android:verticalScrollbarPosition="left"
         tools:ignore="MissingConstraints"
         android:contentDescription="@string/copyright" />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/author"
-        android:paddingTop="400dp"
-        android:paddingStart="100dp"
-        android:paddingLeft="100dp"
-        android:paddingEnd="20dp"
-        android:paddingRight="20dp"
-        android:fontFamily="monospace"
-        />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
