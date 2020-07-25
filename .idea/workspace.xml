@@ -17,10 +17,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/testing/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/testing/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <recent name="D:\UJI\Android Apps\testing\app\src\main\res\drawable" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.testing [dependencies]">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -198,22 +200,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1595506077486" />
-    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1595421792421">
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1595677464722">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595421792421" />
-    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1595421792420">
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595677464722" />
+    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1595677464722">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595421792420" />
-    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1595421792420">
+    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595677464722" />
+    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1595677464722">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595421792420" />
-    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1595421792420">
+    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595677464722" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1595677464722">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595421792420" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595677464722" />
     <state x="439" y="116" key="NewModule_or_Project.wizard" timestamp="1595411821257">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -226,14 +228,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595417347097" />
-    <state x="93" y="93" width="1350" height="648" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595409012890">
+    <state x="93" y="93" width="1350" height="648" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595677399656">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="93" y="93" width="1350" height="648" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.834@0.0.1536.834" timestamp="1595409012890" />
-    <state x="465" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1595496079484">
+    <state x="93" y="93" width="1350" height="648" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.834@0.0.1536.834" timestamp="1595677399656" />
+    <state x="465" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1595672866675">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="345" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1595496079484" />
+    <state x="465" y="345" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1595672866675" />
     <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595417966779">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

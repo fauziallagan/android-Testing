@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">My First Application</string>
     <string name="first">First Project in Kotlin</string>
-    <string name="author"> Author : Fauzi allagan</string>
-    <string name="copyright">lisence by google</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="panjang">Panjang</string>
+    <string name="hitung">Hitung</string>
+    <string name="result">Result</string>
 
 </resources>
